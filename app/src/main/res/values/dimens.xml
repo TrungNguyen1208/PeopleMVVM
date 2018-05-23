@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="people_circle_image_view_size">60dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="size_16sp">16sp</dimen>
+    <dimen name="size_14sp">14sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
